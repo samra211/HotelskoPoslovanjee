@@ -1,1 +1,1 @@
-# HotelskoPoslovanjee
+# SeminarskiRad
